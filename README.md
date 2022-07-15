@@ -11,3 +11,9 @@
 7. After that write git remote add origin "Paste that clone link" and Enter
 8. "git status"
 9. GO to that downloaded code and open the index.html 
+
+
+
+## copyright
+
+© Jinal Sheladiya
