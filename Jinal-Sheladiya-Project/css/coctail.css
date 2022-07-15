@@ -1,0 +1,14 @@
+.row1 img{
+    width:100%;
+    padding: 10px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.row1 p{
+    margin-left: 5px;
+    text-align: justify;
+}
+.box3 p{
+    text-align: justify;
+}

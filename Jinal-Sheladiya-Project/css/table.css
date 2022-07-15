@@ -1,0 +1,27 @@
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+  padding: 5px;
+}
+tr:hover {
+  color: blue;
+}
+table{
+  margin-bottom: 20px;
+}
+h1{
+  margin-bottom: -20px;
+}
+h3{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.box3 i:hover{
+  font-size: 40px;
+  color: blueviolet;
+  position: fixed;
+  transition: 0.6s;
+}
